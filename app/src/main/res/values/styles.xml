@@ -1,0 +1,6 @@
+<resources>
+    <!-- Используем тему без стандартного ActionBar -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Здесь могут быть дополнительные настройки для вашей темы -->
+    </style>
+</resources>
